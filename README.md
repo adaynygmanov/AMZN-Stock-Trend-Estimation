@@ -11,7 +11,7 @@ Step 3: Creating equally spaced time points for fitting trends
 
 Step 4: Fitting parametric quadratic polynomial
 
-Step 5: Plotting parametric quadratic polynomial
+Step 5: Plotting linear regression 
 
 ![Image](https://github.com/adaynygmanov/AMZN-Stock-Trend-Estimation/blob/master/Charts/Parametric%20quadratic%20polynomial.png)
 
