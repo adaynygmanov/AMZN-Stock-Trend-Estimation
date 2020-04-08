@@ -3,7 +3,7 @@ AMZN Stock Trend Estimation in R for 2015-2020 period (scripts and graphs).
 
 Step 1: Importing data
 
-Step 2: Plotting time series plot
+Step 2: Time series plot
 
 ![Image](https://github.com/adaynygmanov/AMZN-Stock-Trend-Estimation/blob/master/Charts/Time%20Series%20plot.png)
 
