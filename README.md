@@ -17,7 +17,7 @@ Step 5: Plotting linear regression
 
 Step 6: Fitting local polynomial and splines
 
-Step 7: Plotting generalized additive model (GAM, in red) and splines
+Step 7: Plotting generalized additive model (GAM, in red) and local regression (LOESS, in brown)
 
 ![Image](https://github.com/adaynygmanov/AMZN-Stock-Trend-Estimation/blob/master/Charts/Local%20polynomial%20and%20splines.png)
 
