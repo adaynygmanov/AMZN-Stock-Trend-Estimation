@@ -23,7 +23,7 @@ Step 7: Plotting generalized additive model (GAM, in red) and local regression (
 
 Step 8: Fitting moving average
 
-Step 4: Plotting moving average
+Step 4: Plotting moving average (MAV, in purple)
 
 ![Image](https://github.com/adaynygmanov/AMZN-Stock-Trend-Estimation/blob/master/Charts/Moving%20Average.png)
 
